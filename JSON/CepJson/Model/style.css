@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Makasar&display=swap');
+body{
+background-color: burlywood;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.aling{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    margin-top: 100px;
+}
+.container h2{
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-family: 'Noto Serif Makasar', serif;
+}
+
+.container input{
+    width: 200px;
+    padding: 10px;
+    font-family: 'Noto Serif Makasar', serif;
+}
+
+.container button{
+    padding: 10px;
+    font-family: 'Noto Serif Makasar', serif;
+}
+
+.container button:hover{
+    background-color: rgba(14, 13, 13, 0.445);
+    transition: 1s all ;
+    color: #fff;
+}
+
+.aling2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+.container2{
+    padding: 10px;
+}
+.container2 input{
+    width: 150px;
+    padding: 10px;
+    font-family: 'Noto Serif Makasar', serif;
+}
+
+@media screen and (max-width:722px) {
+    .container2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .container2 input{
+        margin: 5px;
+        width: 270px;
+    }
+
+    .container button:hover{
+        background-color: none;
+        color: none;
+        transition: none
+    }
+}

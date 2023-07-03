@@ -1,0 +1,73 @@
+{
+    "ceps":[ 
+        {
+                "codigo":"123",
+                "cidade": "São Paulo",
+                "estado": "São Paulo",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"456",
+                "cidade": "Rio de Janeiro",
+                "estado": "Rio de Janeiro",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"789",
+                "cidade": "Brasília",
+                "estado": "Distrito Federal",
+                "bairro": "Asa Sul",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"101112",
+                "cidade": "Salvador",
+                "estado": "Bahia",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"131415",
+                "cidade": "Fortaleza",
+                "estado": "Ceará",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"161718",
+                "cidade": "Belo Horizonte",
+                "estado": "Minas Gerais",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"192021",
+                "cidade": "Manaus",
+                "estado": "Amazonas",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"222324",
+                "cidade": "Curitiba",
+                "estado": "Paraná",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {"codigo":"252627",
+                "cidade": "Recife",
+                "estado": "Pernambuco",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              },
+              {
+                "codigo":"282930",
+                "cidade": "Porto Alegre",
+                "estado": "Rio Grande do Sul",
+                "bairro": "Centro",
+                "pais": "Brasil"
+              }  
+    ] 
+}
