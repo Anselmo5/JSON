@@ -1,0 +1,25 @@
+{
+    "ceps":[ 
+        {
+            "codigo":"01234567",
+            "cidade":"Florianópolis",
+            "estado":"SC",
+            "bairro":"Ingleses",
+            "pais":"Brasil"
+        },
+        {
+            "codigo":"76543210",
+            "cidade":"São jose",
+            "estado":"SC",
+            "bairro":"santo antonio",
+            "pais":"Brasil"
+        },
+        {
+            "codigo":"45829120",
+            "cidade":"salvador",
+            "estado":"Ba",
+            "bairro":"ituberá",
+            "pais":"Brasil"
+        }
+    ] 
+}

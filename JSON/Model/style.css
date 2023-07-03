@@ -1,0 +1,23 @@
+body{
+
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#cod{
+    width: 96px;
+}
+
+.inp{
+    padding: 10px;
+    margin: 5px;
+}
+
+.btn button{
+    padding: 10px;
+}

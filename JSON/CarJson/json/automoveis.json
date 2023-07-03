@@ -1,0 +1,75 @@
+{
+    "automoveis": [
+      {
+        "placa":"123",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano": 2021,
+        "cor": "Prata"
+      },
+      {
+        "placa":"456",
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": 2022,
+        "cor": "Preto"
+      },
+      {
+        "placa":"678",
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "ano": 2020,
+        "cor": "Vermelho"
+      },
+      {
+        "placa":"91011",
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "ano": 2019,
+        "cor": "Azul"
+      },
+      {
+        "placa":"121314",
+        "marca": "Chevrolet",
+        "modelo": "Camaro",
+        "ano": 2023,
+        "cor": "Amarelo"
+      },
+      {
+        "placa":"151617",
+        "marca": "BMW",
+        "modelo": "Série 3",
+        "ano": 2021,
+        "cor": "Branco"
+      },
+      {
+        "placa":"181920",
+        "marca": "Mercedes-Benz",
+        "modelo": "Classe C",
+        "ano": 2022,
+        "cor": "Cinza"
+      },
+      {
+        "placa":"212223",
+        "marca": "Audi",
+        "modelo": "A4",
+        "ano": 2020,
+        "cor": "Prata"
+      },
+      {
+        "placa":"242526",
+        "marca": "Nissan",
+        "modelo": "Sentra",
+        "ano": 2021,
+        "cor": "Verde"
+      },
+      {
+        "placa":"272829",
+        "marca": "Hyundai",
+        "modelo": "HB20",
+        "ano": 2023,
+        "cor": "Branco"
+      }
+    ]
+  }
+  
